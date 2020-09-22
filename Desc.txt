@@ -1,0 +1,10 @@
+Different On top forms
+
+This demonstrates you how to load form on deferent modes.
+1. Normal form loading.
+2. Model form loading.
+3. On top form within application.
+4. Global On top form (The form will be on Top even if your focus is on other application).
+5. Loading inactive form (loading and showing a form while keeping the focus on the main form.).
+
+Expecting your valuable feedback. Thanks!!
